@@ -1,3 +1,5 @@
+Практическая работа 11 #Glushcenko
+
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
